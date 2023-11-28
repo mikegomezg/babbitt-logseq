@@ -1,0 +1,12 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Personal IDE settings
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Logseq backup folders - version control will capture this data
+**/logseq/.recycle
+**/logseq/bak
