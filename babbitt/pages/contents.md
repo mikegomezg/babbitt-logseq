@@ -13,3 +13,13 @@
 - [[social]]
 	- [[Vergil Gunch]]
 	- [[Charles McKelvey]]
+	- [[Howard Littlefield]] - neighbor
+		- publicity-counsel of Zenith Street Traction Company
+- [[work]]
+	- employees
+		- [[Stanley Graff]] - outside salesman
+		- [[Theresa McGoun]] - stenographer
+	- deals
+		- [[Allen]]
+	- projects
+		- [[marketing]]
