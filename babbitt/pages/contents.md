@@ -3,6 +3,8 @@
 	- [[book]] - Project Gutenberg text
 	- [[contents query]] - find unlinked pages
 	  id:: 7a9cc849-1870-4cc8-baa1-81163da305a6
+- tags
+	- #vision - seeing the inevitable
 - [[health]] - physical health
 - [[mind]] - mental health
 - [[family]]
@@ -11,6 +13,7 @@
 	- [[Ted]]
 	- [[Tinka]]
 - [[social]]
+	- [[Paul Riesling]]
 	- [[Vergil Gunch]]
 	- [[Charles McKelvey]]
 	- [[Howard Littlefield]] - neighbor
@@ -19,7 +22,12 @@
 	- employees
 		- [[Stanley Graff]] - outside salesman
 		- [[Theresa McGoun]] - stenographer
+		- [[Chet Laylock]] - Glen Oriole salesman
+	- customers
+		- [[Conrad Lyte]]
+		- [[Archibald Purdy]]
 	- deals
 		- [[Allen]]
+		- [[Purdy]]
 	- projects
 		- [[marketing]]
