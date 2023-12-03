@@ -15,6 +15,8 @@
 - [[social]]
 	- [[Paul Riesling]] - best friend
 	- [[Vergil Gunch]] - coal-dealer
+		- president of the Boosters Club
+		- officer in the Elks
 	- [[Charles McKelvey]] - contractor
 	- [[Howard Littlefield]] - neighbor
 		- publicity-counsel of Zenith Street Traction Company
