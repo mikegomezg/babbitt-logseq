@@ -4,18 +4,18 @@
 	- [[contents query]] - find unlinked pages
 	  id:: 7a9cc849-1870-4cc8-baa1-81163da305a6
 - tags
-	- #vision - seeing the inevitable
+	- #vision - predicting Zenith real estate trends
 - [[health]] - physical health
 - [[mind]] - mental health
 - [[family]]
-	- [[Myra]]
-	- [[Verona]]
-	- [[Ted]]
-	- [[Tinka]]
+	- [[Myra]] - wife
+	- [[Verona]] - daughter - 22
+	- [[Ted]] - son - 17
+	- [[Tinka]] - daughter - 10
 - [[social]]
-	- [[Paul Riesling]]
-	- [[Vergil Gunch]]
-	- [[Charles McKelvey]]
+	- [[Paul Riesling]] - best friend
+	- [[Vergil Gunch]] - coal-dealer
+	- [[Charles McKelvey]] - contractor
 	- [[Howard Littlefield]] - neighbor
 		- publicity-counsel of Zenith Street Traction Company
 - [[work]]
@@ -23,9 +23,9 @@
 		- [[Stanley Graff]] - outside salesman
 		- [[Theresa McGoun]] - stenographer
 		- [[Chet Laylock]] - Glen Oriole salesman
-	- customers
-		- [[Conrad Lyte]]
-		- [[Archibald Purdy]]
+	- clients
+		- [[Conrad Lyte]] - real-estate speculator
+		- [[Archibald Purdy]] - grocer
 	- deals
 		- [[Allen]]
 		- [[Purdy]]
