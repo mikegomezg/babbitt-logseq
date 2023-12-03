@@ -1,6 +1,6 @@
 - [[reference]]
   id:: 65654760-61df-4321-a7cd-955c467d4964
-	- [[book]] - Project Gutenberg text
+	- [[book]] - Standard Ebooks text
 	- [[contents query]] - find unlinked pages
 	  id:: 7a9cc849-1870-4cc8-baa1-81163da305a6
 - tags

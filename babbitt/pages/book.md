@@ -1,0 +1,2 @@
+- Standard Ebooks cover page for Babbitt - multiple formats available
+	- [Babbitt, by Sinclair Lewis - Free ebook download - Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover.](https://standardebooks.org/ebooks/sinclair-lewis/babbitt)
