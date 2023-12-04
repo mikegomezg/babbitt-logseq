@@ -20,7 +20,10 @@
 	- [[Charles McKelvey]] - contractor
 	- [[Howard Littlefield]] - neighbor
 		- publicity-counsel of Zenith Street Traction Company
+	- [[Noël Ryland]] - sales-manager at Zeeco Motor Company
 - [[work]]
+	- partner
+		- [[Henry Thompson]] - Myra's father
 	- employees
 		- [[Stanley Graff]] - outside salesman
 		- [[Theresa McGoun]] - stenographer
@@ -31,5 +34,8 @@
 	- deals
 		- [[Allen]]
 		- [[Purdy]]
+		- [[Heiler]]
+	- properties
+		- [[Linden Lane Cemetery]]
 	- projects
 		- [[marketing]]
