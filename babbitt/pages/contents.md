@@ -15,12 +15,17 @@
 - [[social]]
 	- [[Paul Riesling]] - best friend
 	- [[Vergil Gunch]] - coal-dealer
-		- president of the Boosters Club
-		- officer in the Elks
+		- Boosters Club president
+		- Elks officer
 	- [[Charles McKelvey]] - contractor
-	- [[Howard Littlefield]] - neighbor
-		- publicity-counsel of Zenith Street Traction Company
-	- [[Noël Ryland]] - sales-manager at Zeeco Motor Company
+	- [[Howard Littlefield]] - Zenith Street Traction publicity-counsel, neighbor
+	- [[Eddie Swanson]] - Javelin Motor Car agent
+	- [[Orville Jones]] - Lily White Laundry owner
+	- [[T. Cholmodeley Frink]] - poet
+		- Poemulations
+		- Ads that Add
+	- [[Jake Offutt]]
+	- [[Noël Ryland]] - Zeeco Motor sales manager
 - [[work]]
 	- partner
 		- [[Henry Thompson]] - Myra's father
