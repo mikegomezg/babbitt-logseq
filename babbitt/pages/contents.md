@@ -14,6 +14,7 @@
 	- [[Tinka]] - daughter - 10
 - [[social]]
 	- [[Paul Riesling]] - best friend
+	- [[Zilla Riesling]] - Paul's wife
 	- [[Vergil Gunch]] - coal-dealer
 		- Boosters Club president
 		- Elks officer
@@ -26,6 +27,7 @@
 		- Ads that Add
 	- [[Jake Offutt]]
 	- [[Noël Ryland]] - Zeeco Motor sales manager
+	- [[Willis Ijams]] - Sporting Goods Mart salesman
 - [[work]]
 	- partner
 		- [[Henry Thompson]] - Myra's father
