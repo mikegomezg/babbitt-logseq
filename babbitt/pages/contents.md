@@ -14,12 +14,13 @@
 	- [[Tinka]] - daughter - 10
 - [[social]]
 	- [[Paul Riesling]] - best friend
-	- [[Zilla Riesling]] - Paul's wife
+	- [[Zilla Riesling]]
 	- [[Vergil Gunch]] - coal-dealer
 		- Boosters Club president
 		- Elks officer
 	- [[Charles McKelvey]] - contractor
-	- [[Howard Littlefield]] - Zenith Street Traction publicity-counsel, neighbor
+	- [[Lucile McKelvey]]
+	- [[Howard Littlefield]] - Zenith Street Traction publicity counsel, neighbor
 	- [[Eddie Swanson]] - Javelin Motor Car agent
 	- [[Orville Jones]] - Lily White Laundry owner
 	- [[T. Cholmodeley Frink]] - poet
@@ -28,7 +29,12 @@
 	- [[Jake Offutt]]
 	- [[Noël Ryland]] - Zeeco Motor sales manager
 	- [[Willis Ijams]] - Sporting Goods Mart salesman
+	- [[Ira Runyon]] - managing editor of *Advocate-Times*
 - [[work]]
+	- realtors
+		- [[Cecil Roundtree]] - SAREB convention committee chair
+		- [[W.A. Rogers]] - farmland
+		- [[Elbert Wing]]
 	- partner
 		- [[Henry Thompson]] - Myra's father
 	- employees
