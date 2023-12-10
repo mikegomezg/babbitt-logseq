@@ -13,6 +13,7 @@
 	- [[Ted]] - son - 17
 	- [[Tinka]] - daughter - 10
 - [[social]]
+  collapsed:: true
 	- [[Paul Riesling]] - best friend
 	- [[Zilla Riesling]]
 	- [[Vergil Gunch]] - coal-dealer
@@ -31,6 +32,7 @@
 	- [[Willis Ijams]] - Sporting Goods Mart salesman
 	- [[Ira Runyon]] - managing editor of *Advocate-Times*
 - [[work]]
+  collapsed:: true
 	- realtors
 		- [[Cecil Roundtree]] - SAREB convention committee chair
 		- [[W.A. Rogers]] - farmland
@@ -52,3 +54,6 @@
 		- [[Linden Lane Cemetery]]
 	- projects
 		- [[marketing]]
+- [[politics]]
+	- [[Seneca Doane]] - labor mayoral candidate, lawyer
+	- [[Lucas Prout]] - conservative mayor, mattress-manufacturer
