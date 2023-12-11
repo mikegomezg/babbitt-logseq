@@ -8,6 +8,7 @@
 - [[health]] - physical health
 - [[mind]] - mental health
 - [[family]]
+  collapsed:: true
 	- [[Myra]] - wife
 	- [[Verona]] - daughter - 22
 	- [[Ted]] - son - 17
@@ -15,22 +16,19 @@
 - [[social]]
   collapsed:: true
 	- [[Paul Riesling]] - best friend
-	- [[Zilla Riesling]]
-	- [[Vergil Gunch]] - coal-dealer
-		- Boosters Club president
-		- Elks officer
+		- [[Zilla Riesling]]
+	- [[Vergil Gunch]] - coal-dealer, Boosters Club president
 	- [[Charles McKelvey]] - contractor
-	- [[Lucile McKelvey]]
+		- [[Lucile McKelvey]]
 	- [[Howard Littlefield]] - Zenith Street Traction publicity counsel, neighbor
 	- [[Eddie Swanson]] - Javelin Motor Car agent
 	- [[Orville Jones]] - Lily White Laundry owner
-	- [[T. Cholmodeley Frink]] - poet
-		- Poemulations
-		- Ads that Add
+	- [[T. Cholmodeley Frink]] - ad-man, poet
 	- [[Jake Offutt]]
 	- [[Noël Ryland]] - Zeeco Motor sales manager
 	- [[Willis Ijams]] - Sporting Goods Mart salesman
 	- [[Ira Runyon]] - managing editor of *Advocate-Times*
+	- [[Ed Overbrook]] - insurer
 - [[work]]
   collapsed:: true
 	- realtors
@@ -55,5 +53,6 @@
 	- projects
 		- [[marketing]]
 - [[politics]]
+  collapsed:: true
 	- [[Seneca Doane]] - labor mayoral candidate, lawyer
 	- [[Lucas Prout]] - conservative mayor, mattress-manufacturer
