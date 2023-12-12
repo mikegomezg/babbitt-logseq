@@ -14,7 +14,6 @@
 	- [[Ted]] - son - 17
 	- [[Tinka]] - daughter - 10
 - [[social]]
-  collapsed:: true
 	- [[Paul Riesling]] - best friend
 		- [[Zilla Riesling]]
 	- [[Vergil Gunch]] - coal-dealer, Boosters Club president
@@ -29,8 +28,9 @@
 	- [[Willis Ijams]] - Sporting Goods Mart salesman
 	- [[Ira Runyon]] - managing editor of *Advocate-Times*
 	- [[Ed Overbrook]] - insurer
+	- [[John Drew]] - Chatham Road Presbyterian pastor
+	- [[William Eathorne]] - First State of Zenith Bank president
 - [[work]]
-  collapsed:: true
 	- realtors
 		- [[Cecil Roundtree]] - SAREB convention committee chair
 		- [[W.A. Rogers]] - farmland
@@ -45,9 +45,11 @@
 		- [[Conrad Lyte]] - real-estate speculator
 		- [[Archibald Purdy]] - grocer
 	- deals
+		- [[Zenith Street Traction terminal]]
 		- [[Allen]]
 		- [[Purdy]]
 		- [[Heiler]]
+		- [[Wengert]]
 	- properties
 		- [[Linden Lane Cemetery]]
 	- projects
