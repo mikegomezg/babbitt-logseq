@@ -8,11 +8,11 @@
 - [[health]] - physical health
 - [[mind]] - mental health
 - [[family]]
-  collapsed:: true
 	- [[Myra]] - wife
 	- [[Verona]] - daughter - 22
 	- [[Ted]] - son - 17
 	- [[Tinka]] - daughter - 10
+	- [[mother]]
 - [[social]]
 	- [[Paul Riesling]] - best friend
 		- [[Zilla Riesling]]
@@ -20,6 +20,7 @@
 	- [[Charles McKelvey]] - contractor
 		- [[Lucile McKelvey]]
 	- [[Howard Littlefield]] - Zenith Street Traction publicity counsel, neighbor
+		- [[Eunice Littlefield]] - daughter - 17
 	- [[Eddie Swanson]] - Javelin Motor Car agent
 	- [[Orville Jones]] - Lily White Laundry owner
 	- [[T. Cholmodeley Frink]] - ad-man, poet
@@ -27,6 +28,7 @@
 	- [[Noël Ryland]] - Zeeco Motor sales manager
 	- [[Willis Ijams]] - Sporting Goods Mart salesman
 	- [[Ira Runyon]] - managing editor of *Advocate-Times*
+		- [[Kenneth Escott]] - press agent *Advocate*
 	- [[Ed Overbrook]] - insurer
 	- [[John Drew]] - Chatham Road Presbyterian pastor
 	- [[William Eathorne]] - First State of Zenith Bank president
