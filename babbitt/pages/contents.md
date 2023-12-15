@@ -19,7 +19,7 @@
 	- [[Vergil Gunch]] - coal-dealer, Boosters Club president
 	- [[Charles McKelvey]] - contractor
 		- [[Lucile McKelvey]]
-	- [[Howard Littlefield]] - Zenith Street Traction publicity counsel, neighbor
+	- [[Howard Littlefield]] - [[Zenith Street Traction Company]] publicity counsel, neighbor
 		- [[Eunice Littlefield]] - daughter - 17
 	- [[Eddie Swanson]] - Javelin Motor Car agent
 	- [[Orville Jones]] - Lily White Laundry owner
@@ -43,15 +43,21 @@
 		- [[Stanley Graff]] - outside salesman
 		- [[Theresa McGoun]] - stenographer
 		- [[Chet Laylock]] - Glen Oriole salesman
+	- competition
+		- [[East Side Homes and Development Company]]
+		- [[Chan Mott]]
 	- clients
 		- [[Conrad Lyte]] - real-estate speculator
 		- [[Archibald Purdy]] - grocer
 	- deals
-		- [[Zenith Street Traction terminal]]
+		- [[Zenith Street Traction Company]]
+			- [[ZSTC terminal]]
+			- [[ZSTC repair shops]]
 		- [[Allen]]
 		- [[Purdy]]
 		- [[Heiler]]
 		- [[Wengert]]
+		- [[Varney]]
 	- properties
 		- [[Linden Lane Cemetery]]
 	- projects
